@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mahmoud Hanfer 👋</h1>
+<h1 align="center">Hi, I'm Mahmoud 👋</h1>
 <h3 align="center">First-Year Computer Science Student | Learning Backend Development</h3>
 
 <p align="center">
